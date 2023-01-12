@@ -8,7 +8,7 @@ $(function () {
                     bar += '<div class="col-lg-6 col-xl-2 col-md-6 col-6">';
                         bar += '<div class="logo">';
                             bar += '<a href="/">';
-                                bar += '<img class="logo-light" src="/assets/images/logo/logo-light.svg" alt="Site Logo">';
+                                bar += '<img class="logo-light" src="https://axcon.my.id/assets/images/logo/logo-light.svg" alt="Site Logo">';
                             bar += '</a>';
                         bar += '</div>';
                     bar += '</div>';
@@ -24,7 +24,7 @@ $(function () {
                                     bar += '</ul>';
                                 bar += '</li>';
 
-                                bar += '<li><a href="/privacy">Privacy</a></li>';
+                                bar += '<li><a href="https://www.axcon.my.id/privacy">Privacy</a></li>';
 
                                 bar += '<li><a href="https://faq.axcon.my.id/">Help Center</a></li>';
 
@@ -65,7 +65,7 @@ $(function () {
                 bar += '<div class="header-top">';
                     bar += '<div class="logo">';
                         bar += '<a href="/">';
-                            bar += '<img src="/assets/images/logo/logo-light.svg" alt="Site Logo">';
+                            bar += '<img src="https://axcon.my.id/assets/images/logo/logo-light.svg" alt="Site Logo">';
                         bar += '</a>';
                     bar += '</div>';
                     bar += '<div class="close-menu">';
@@ -95,25 +95,25 @@ $(function () {
             bar += '</div>';
         bar += '</div>';
 
-        bar += '<script src="/assets/js/vendor/modernizr.min.js"></script>';
-        bar += '<script src="/assets/js/vendor/jquery.js"></script>';
-        bar += '<script src="/assets/js/vendor/bootstrap.min.js"></script>';
-        bar += '<script src="/assets/js/vendor/sal.min.js"></script>';
-        bar += '<script src="/assets/js/vendor/backtotop.js"></script>';
-        bar += '<script src="/assets/js/vendor/magnifypopup.js"></script>';
-        bar += '<script src="/assets/js/vendor/slick.js"></script>';
-        bar += '<script src="/assets/js/vendor/countdown.js"></script>';
-        bar += '<script src="/assets/js/vendor/jquery-appear.js"></script>';
-        bar += '<script src="/assets/js/vendor/odometer.js"></script>';
-        bar += '<script src="/assets/js/vendor/isotop.js"></script>';
-        bar += '<script src="/assets/js/vendor/imageloaded.js"></script>';
-        bar += '<script src="/assets/js/vendor/lightbox.js"></script>';
-        bar += '<script src="/assets/js/vendor/wow.js"></script>';
-        bar += '<script src="/assets/js/vendor/paralax.min.js"></script>';
-        bar += '<script src="/assets/js/vendor/paralax-scroll.js"></script>';
-        bar += '<script src="/assets/js/vendor/jquery-ui.js"></script>';
-        bar += '<script src="/assets/js/vendor/tilt.jquery.min.js"></script>';
-        bar += '<script src="/assets/js/main.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/vendor/modernizr.min.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/vendor/jquery.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/vendor/bootstrap.min.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/vendor/sal.min.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/vendor/backtotop.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/vendor/magnifypopup.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/vendor/slick.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/vendor/countdown.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/vendor/jquery-appear.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/vendor/odometer.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/vendor/isotop.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/vendor/imageloaded.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/vendor/lightbox.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/vendor/wow.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/vendor/paralax.min.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/vendor/paralax-scroll.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/vendor/jquery-ui.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/vendor/tilt.jquery.min.js"></script>';
+        bar += '<script src="https://axcon.my.id/assets/js/main.js"></script>';
 
     $("#navbar").html(bar);
 });

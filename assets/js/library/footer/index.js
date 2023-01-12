@@ -8,16 +8,16 @@ $(function () {
                     bar += '<div class="col-lg-3 col-md-6 col-sm-12 col-12">';
                         bar += '<div class="edu-footer-widget">';
                             bar += '<div class="logo">';
-                                bar += '<a href="index.html">';
-                                    bar += '<img class="logo-light" src="/assets/images/logo/logo-dark.svg" alt="Axcon">';
+                                bar += '<a href="/">';
+                                    bar += '<img class="logo-light" src="https://axcon.my.id/assets/images/logo/logo-dark.svg" alt="Axcon">';
                                 bar += '</a>';
                             bar += '</div>';
                             bar += '<p class="description">';
                                 bar += 'Framework yang dibangun secara free agar kalian dapat menggunakan dengan baik';
                             bar += '</p>';
                             bar += '<ul class="social-share">';
-                                bar += '<li><a href="#"><i class="ax-instagram"></i></a></li>';
-                                bar += '<li><a href="#"><i class="ax-tiktok"></i></a></li>';
+                                bar += '<li><a href="https://www.instagram.com/axcon.id/"><i class="ax-instagram"></i></a></li>';
+                                bar += '<li><a href="https://www.tiktok.com/@axcon.id"><i class="ax-tiktok"></i></a></li>';
                             bar += '</ul>';
                         bar += '</div>';
                     bar += '</div>';
@@ -69,10 +69,10 @@ $(function () {
 
                 bar += '<div class="shape-dot-wrapper shape-wrapper d-md-block d-none">';
                     bar += '<div class="shape-image shape-image-1">';
-                        bar += '<img src="assets/images/shapes/shape-21-01.png" alt="Axcon" />';
+                        bar += '<img src="https://axcon.my.id/assets/images/shapes/shape-21-01.png" alt="Axcon" />';
                     bar += '</div>';
                     bar += '<div class="shape-image shape-image-2">';
-                        bar += '<img src="assets/images/shapes/shape-35.png" alt="Axcon" />';
+                        bar += '<img src="https://axcon.my.id/assets/images/shapes/shape-35.png" alt="Axcon" />';
                     bar += '</div>';
                 bar += '</div>';
             bar += '</div>';
